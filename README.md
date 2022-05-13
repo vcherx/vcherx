@@ -1,9 +1,8 @@
 ## Hi, I'm Vivi Chevez! :unicorn:
 
 ## :woman_technologist:BIO 
- :rocket: Sr. DevOps Engineer from Costa Rica :costa_rica:.  Interested in CICD Practices, Cloud, Data and Infrastructure. 
- 
- :bike: I love bike rides, :books: books, unicorns and pink stuff :smiley:. 
+ :rocket: Sr. DevOps Engineer from Costa Rica :costa_rica: 
+ :bike: Bicycle rides,:books: books, unicorns and pink stuff are part of my life :smiley:. 
 
 <h2>You can find me here:</h2>
 <a href=https://www.linkedin.com/in/vymcro03/> <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
