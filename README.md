@@ -19,13 +19,17 @@
 </p>
 
 <h2> Programming Languages </h2>
+<p>
   <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=#3776AB">
   <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white">
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white">
    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+ </p>
  <h2> OS </h2>
+ <p>
   <img src="https://img.shields.io/badge/macOs-000000?style=for-the-badge&logo=macos&logoColor=#3776AB">
   <img src="https://img.shields.io/badge/Linux-CC624?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white">
+ </p>
  <h2> Other tools and technologies </h2>
  
