@@ -1,7 +1,7 @@
 ## Hi, I'm Vivi Chevez! :unicorn:
 
 ## :woman_technologist:BIO 
- :rocket: Sr. DevOps Engineer from Costa Rica.  Interested in CICD Practices, Cloud, Data and Infrastructure. 
+ :rocket: Sr. DevOps Engineer from Costa Rica :costa_rica:.  Interested in CICD Practices, Cloud, Data and Infrastructure. 
  
  :bike: I love bike rides, :books: books, unicorns and pink stuff :smiley:. 
 
@@ -31,5 +31,13 @@
   <img src="https://img.shields.io/badge/Linux-CC624?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white">
  </p>
- <h2> Other tools and technologies </h2>
+  ## :toolbox: Other tools and technologies 
+ 
+ - :heavy_check_mark: Databases:MySQL, Postgresql, MongoDb, SqlSever. 
+ - :heavy_check_mark: Mobile, Backend and FrontEnd CICD experience. 
+
+## :book: What I'm Learning right now? 
+
+ - :radio_button: Getting ready for AWS Solutions Architect Certification. 
+ - :radio_button: Hands on Kubernetes, best practices and Monitoring.
  
