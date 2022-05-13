@@ -31,7 +31,8 @@
   <img src="https://img.shields.io/badge/Linux-CC624?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white">
  </p>
-  ## :toolbox: Other tools and technologies 
+  
+## :toolbox: Other tools and technologies 
  
  - :heavy_check_mark: Databases:MySQL, Postgresql, MongoDb, SqlSever. 
  - :heavy_check_mark: Mobile, Backend and FrontEnd CICD experience. 
