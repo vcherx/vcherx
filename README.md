@@ -1,7 +1,7 @@
 ## Hi, I'm Vivi Chevez! :unicorn:
 
 ## :woman_technologist:BIO 
- :rocket: Sr. DevOps Engineer from Costa Rica :costa_rica: 
+ :rocket: Sr. DevOps Engineer - Data from Costa Rica :costa_rica: 
  :bike: Bicycle rides,:books: books, unicorns and pink stuff are part of my life :smiley:. 
 
 <h2>You can find me here:</h2>
@@ -39,6 +39,7 @@
 
 ## :book: What I'm Learning right now? 
 
- - :radio_button: Getting ready for AWS Solutions Architect Certification. 
+ - :radio_button: Getting ready for AWS Solutions Architect Certification.
+ - :radio_button: Learning about Data Engineering. Airflow, Snowflake n DBT.  
  - :radio_button: Hands on Kubernetes, best practices and Monitoring.
  
