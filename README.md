@@ -5,8 +5,8 @@
  :bike: Bicycle rides,:books: books, unicorns and pink stuff are part of my life :smiley:. 
 
 <h2>You can find me here:</h2>
-<a href=https://www.linkedin.com/in/vymcro03/> <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href=https://twitter.com/Vym9431/> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href=https://www.linkedin.com/in/vicharlier/> <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href=https://twitter.com/vicharlier/> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 <h2>Main Technologies</h2>
 <p>
